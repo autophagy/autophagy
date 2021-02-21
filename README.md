@@ -3,8 +3,6 @@
 I'm a Berlin based software developer, mostly writing Python. 
 Although secretly I really love pure functional languages like Haskell and Elm, and think algebraic types and category theory and monads are pretty neat.
 
-I'm also into cybernetics (the Stafford Beer kind, less-so the Terminator kind), xenofeminism and Cronenberg's body horror movies.
-
 Some cool things I've worked on or contributed to:
 
 - [Færeld](https://github.com/autophagy/faereld) :: A CLI time tracking tool for optimizing my productive time.
